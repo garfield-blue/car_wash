@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #01121A;
+    background: #FFFFFF;
+
+}
+
+
+
+.head{
+    margin: 0;
+    padding: 30vh;
+    background-image: url("images/baniere.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #000000;
+    text-align: center;
+    font-size: 2em;
+    font-family:sans-serif;
+    /*border-bottom: 2px solid #000000;
+    /*box-shadow: 6px 6px 6px rgba(0, 0, 0);*/
+}
+
+.head h1{
+    text-shadow: 3px 3px 3px rgba(0, 0, 0);
+
+}
+
+/*
+.head h1{
+    color: #000000;
+    background: rgba(0, 0, 0, 0.5);
+    border: 2 solid #000000;
+    border-radius: 15px;
+
+}
+*/
+
+
+header .gradient {
+    margin: 0;
+    width: 100vw;
+    height: 10px;
+
+    background: linear-gradient(to bottom, #000000, #FFFFFF);
+
+
+
+}
+
+.lieu .gradient {
+    margin: 0;
+    width: 100vw;
+    height: 10px;
+
+    background: linear-gradient(to top, #000000, #FFFFFF);
+}
+
+.lieu .emplacement{
+    background-image: url("images/emplacement.png");
+    background-size: cover;
+    background-position: center;
+    padding: 15vh;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+.lieu h2 {
+    width: 300px;
+    color: #FFFFFF;
+    background: rgba(0, 0, 0, 0.7);
+    border: 2 solid #000000;
+    border-radius: 15px;
+}
+
+.lieu a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+.lieu a:active {
+    color: #000000;
+    text-decoration: none;
+}
+.lieu a {
+    color: #000000;
+    text-decoration: none;
+}
+
+p{
+    margin: 0;
+
+}
+
+section p{
+    margin: 150px;
+
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+a{
+    color: #0076A6;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: #C4694B;
+    text-decoration: underline;
+
+}
+
+a:active{
+    color: #52A349;
+    text-decoration: underline;
+}
