@@ -11,7 +11,7 @@ body{
 .head{
     margin: 0;
     padding: 30vh;
-    background-image: url("images/baniere.jpg");
+    background-image: url("baniere.jpg");
     background-size: cover;
     background-position: center;
     color: #000000;
@@ -58,7 +58,7 @@ header .gradient {
 }
 
 .lieu .emplacement{
-    background-image: url("images/emplacement.png");
+    background-image: url("emplacement.png");
     background-size: cover;
     background-position: center;
     padding: 15vh;
